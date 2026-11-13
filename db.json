@@ -1,0 +1,1328 @@
+{
+  "designers": [
+    {
+      "id": "d-001",
+      "name": "Aysel Mammadova",
+      "title": "UI/UX Designer",
+      "bio": "Product designer with a passion for clean, accessible interfaces. Worked with fintech and e-commerce startups across Azerbaijan and Europe.",
+      "avatar": "https://i.pravatar.cc/200?u=d-001",
+      "skills": [
+        "UI Design",
+        "UX Research",
+        "Prototyping",
+        "Design Systems",
+        "Figma"
+      ],
+      "hourlyRate": 40,
+      "currency": "AZN",
+      "experience": 6,
+      "location": "Baku, Azerbaijan",
+      "email": "aysel.mammadova@example.com",
+      "phone": "+994 50 111 22 33",
+      "behanceUrl": "https://behance.net/ayselmammadova",
+      "dribbbleUrl": "https://dribbble.com/aysel_mm",
+      "instagramUrl": "https://instagram.com/aysel.designs",
+      "isAvailable": true,
+      "isVerified": false,
+      "rating": 4.8,
+      "reviewsCount": 4,
+      "createdAt": "2025-05-06T10:40:00.000Z"
+    },
+    {
+      "id": "d-002",
+      "name": "Tural Hasanov",
+      "title": "Brand Identity Designer",
+      "bio": "I help businesses find their visual voice. 50+ completed branding projects: logos, brand books, packaging.",
+      "avatar": "https://i.pravatar.cc/200?u=d-002",
+      "skills": [
+        "Logo Design",
+        "Brand Identity",
+        "Typography",
+        "Packaging",
+        "Illustrator"
+      ],
+      "hourlyRate": 35,
+      "currency": "AZN",
+      "experience": 8,
+      "location": "Baku, Azerbaijan",
+      "email": "tural.hasanov@example.com",
+      "phone": "+994 55 222 33 44",
+      "behanceUrl": "https://behance.net/turalhasanov",
+      "dribbbleUrl": "https://dribbble.com/tural_h",
+      "instagramUrl": "https://instagram.com/tural.brands",
+      "isAvailable": true,
+      "isVerified": true,
+      "rating": 4.6,
+      "reviewsCount": 5,
+      "createdAt": "2024-07-10T10:40:00.000Z"
+    },
+    {
+      "id": "d-004",
+      "name": "Rashad Aliyev",
+      "title": "Motion Designer",
+      "bio": "Motion graphics and animation for ads, explainers, and social media. After Effects wizard, Cinema 4D enthusiast.",
+      "avatar": "https://i.pravatar.cc/200?u=d-004",
+      "skills": [
+        "Motion Graphics",
+        "2D Animation",
+        "After Effects",
+        "Cinema 4D",
+        "Video Editing"
+      ],
+      "hourlyRate": 45,
+      "currency": "AZN",
+      "experience": 5,
+      "location": "Ganja, Azerbaijan",
+      "email": "rashad.aliyev@example.com",
+      "phone": "+994 51 444 55 66",
+      "behanceUrl": "https://behance.net/rashadmotion",
+      "dribbbleUrl": "https://dribbble.com/rashad_a",
+      "instagramUrl": "https://instagram.com/rashad.motion",
+      "isAvailable": true,
+      "isVerified": false,
+      "rating": 4.3,
+      "reviewsCount": 3,
+      "createdAt": "2025-08-14T10:00:00.000Z"
+    },
+    {
+      "id": "d-005",
+      "name": "Nigar Guliyeva",
+      "title": "UI/UX & Mobile App Designer",
+      "bio": "Mobile-first designer focused on iOS and Android apps. I design products people love to use every day.",
+      "avatar": "https://i.pravatar.cc/200?u=d-005",
+      "skills": [
+        "Mobile Design",
+        "UI Design",
+        "User Testing",
+        "Figma",
+        "Sketch"
+      ],
+      "hourlyRate": 55,
+      "currency": "USD",
+      "experience": 7,
+      "location": "Baku, Azerbaijan",
+      "email": "nigar.guliyeva@example.com",
+      "phone": "+994 77 555 66 77",
+      "behanceUrl": "https://behance.net/nigarguliyeva",
+      "dribbbleUrl": "https://dribbble.com/nigar_g",
+      "instagramUrl": "https://instagram.com/nigar.ux",
+      "isAvailable": true,
+      "isVerified": false,
+      "rating": 4.8,
+      "reviewsCount": 5,
+      "createdAt": "2024-10-18T10:00:00.000Z"
+    },
+    {
+      "id": "d-006",
+      "name": "Marco Bianchi",
+      "title": "Print & Editorial Designer",
+      "bio": "Italian designer specializing in editorial layouts, magazines, books, and print campaigns. Type lover.",
+      "avatar": "https://i.pravatar.cc/200?u=d-006",
+      "skills": [
+        "Editorial Design",
+        "Print Design",
+        "InDesign",
+        "Typography",
+        "Art Direction"
+      ],
+      "hourlyRate": 38,
+      "currency": "USD",
+      "experience": 12,
+      "location": "Sumqayit, Azerbaijan",
+      "email": "marco.bianchi@example.com",
+      "phone": "+994 50 666 77 88",
+      "behanceUrl": "https://behance.net/marcobianchi",
+      "dribbbleUrl": "https://dribbble.com/marco_b",
+      "instagramUrl": "https://instagram.com/marco.prints",
+      "isAvailable": true,
+      "isVerified": false,
+      "rating": 4.3,
+      "reviewsCount": 3,
+      "createdAt": "2025-10-03T10:10:00.000Z"
+    },
+    {
+      "id": "d-007",
+      "name": "Leyla Karimova",
+      "title": "Graphic Designer & Illustrator",
+      "bio": "Versatile designer covering social media graphics, posters, and custom illustrations. Fast turnaround, friendly communication.",
+      "avatar": "https://i.pravatar.cc/200?u=d-007",
+      "skills": [
+        "Graphic Design",
+        "Social Media Design",
+        "Illustration",
+        "Photoshop",
+        "Canva"
+      ],
+      "hourlyRate": 20,
+      "currency": "AZN",
+      "experience": 3,
+      "location": "Lankaran, Azerbaijan",
+      "email": "leyla.karimova@example.com",
+      "phone": "+994 55 777 88 99",
+      "behanceUrl": "https://behance.net/leylakarimova",
+      "dribbbleUrl": "https://dribbble.com/leyla_k",
+      "instagramUrl": "https://instagram.com/leyla.creates",
+      "isAvailable": true,
+      "isVerified": false,
+      "rating": 4.7,
+      "reviewsCount": 3,
+      "createdAt": "2026-01-11T10:30:00.000Z"
+    },
+    {
+      "id": "d-008",
+      "name": "Kanan Valiyev",
+      "title": "Product Designer & Design Systems Lead",
+      "bio": "Senior product designer building scalable design systems for SaaS companies. Ex-agency, now full-time freelance.",
+      "avatar": "https://i.pravatar.cc/200?u=d-008",
+      "skills": [
+        "Design Systems",
+        "Product Design",
+        "UI Design",
+        "Figma",
+        "Webflow"
+      ],
+      "hourlyRate": 70,
+      "currency": "USD",
+      "experience": 10,
+      "location": "Baku, Azerbaijan",
+      "email": "kanan.valiyev@example.com",
+      "phone": "+994 70 888 99 00",
+      "behanceUrl": "https://behance.net/kananvaliyev",
+      "dribbbleUrl": "https://dribbble.com/kanan_v",
+      "instagramUrl": "https://instagram.com/kanan.design",
+      "isAvailable": false,
+      "isVerified": true,
+      "rating": 4.8,
+      "reviewsCount": 4,
+      "createdAt": "2024-04-01T10:20:00.000Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": "p-001",
+      "designerId": "d-001",
+      "title": "Banking App Redesign",
+      "description": "Complete UX overhaul of a mobile banking app: onboarding, transfers, and analytics dashboard.",
+      "category": "ui-ux",
+      "images": [
+        "https://picsum.photos/seed/d-001-p1-a/800/600",
+        "https://picsum.photos/seed/d-001-p1-b/800/600",
+        "https://picsum.photos/seed/d-001-p1-c/800/600"
+      ],
+      "tags": [
+        "fintech",
+        "mobile",
+        "dashboard"
+      ],
+      "tools": [
+        "Figma",
+        "Principle"
+      ],
+      "likes": 248,
+      "views": 3100,
+      "createdAt": "2026-04-26T10:45:00.000Z"
+    },
+    {
+      "id": "p-002",
+      "designerId": "d-001",
+      "title": "E-commerce Design System",
+      "description": "Component library and tokens for a marketplace with 40+ screens.",
+      "category": "ui-ux",
+      "images": [
+        "https://picsum.photos/seed/d-001-p2-a/800/600",
+        "https://picsum.photos/seed/d-001-p2-b/800/600",
+        "https://picsum.photos/seed/d-001-p2-c/800/600"
+      ],
+      "tags": [
+        "design-system",
+        "e-commerce"
+      ],
+      "tools": [
+        "Figma"
+      ],
+      "likes": 156,
+      "views": 1900,
+      "createdAt": "2026-02-10T10:00:00.000Z"
+    },
+    {
+      "id": "p-003",
+      "designerId": "d-001",
+      "title": "Travel Booking Web App",
+      "description": "End-to-end booking flow with map search and price calendar.",
+      "category": "ui-ux",
+      "images": [
+        "https://picsum.photos/seed/d-001-p3-a/800/600",
+        "https://picsum.photos/seed/d-001-p3-b/800/600",
+        "https://picsum.photos/seed/d-001-p3-c/800/600"
+      ],
+      "tags": [
+        "travel",
+        "web-app",
+        "booking"
+      ],
+      "tools": [
+        "Figma",
+        "Protopie"
+      ],
+      "likes": 97,
+      "views": 1200,
+      "createdAt": "2025-11-22T10:20:00.000Z"
+    },
+    {
+      "id": "p-004",
+      "designerId": "d-001",
+      "title": "Healthcare Dashboard",
+      "description": "Patient monitoring dashboard for clinics with data-heavy tables and charts.",
+      "category": "ui-ux",
+      "images": [
+        "https://picsum.photos/seed/d-001-p4-a/800/600",
+        "https://picsum.photos/seed/d-001-p4-b/800/600",
+        "https://picsum.photos/seed/d-001-p4-c/800/600"
+      ],
+      "tags": [
+        "healthcare",
+        "dashboard",
+        "data-viz"
+      ],
+      "tools": [
+        "Figma"
+      ],
+      "likes": 64,
+      "views": 850,
+      "createdAt": "2026-05-26T10:15:00.000Z"
+    },
+    {
+      "id": "p-005",
+      "designerId": "d-002",
+      "title": "Caspian Coffee Rebrand",
+      "description": "Full rebrand of a Baku coffee chain: logo, packaging, signage, and brand book.",
+      "category": "branding",
+      "images": [
+        "https://picsum.photos/seed/d-002-p5-a/800/600",
+        "https://picsum.photos/seed/d-002-p5-b/800/600",
+        "https://picsum.photos/seed/d-002-p5-c/800/600"
+      ],
+      "tags": [
+        "coffee",
+        "rebrand",
+        "packaging"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop"
+      ],
+      "likes": 310,
+      "views": 4200,
+      "createdAt": "2026-04-11T10:00:00.000Z"
+    },
+    {
+      "id": "p-006",
+      "designerId": "d-002",
+      "title": "Tech Startup Identity",
+      "description": "Identity for an AI startup: geometric logomark, motion-ready variations.",
+      "category": "branding",
+      "images": [
+        "https://picsum.photos/seed/d-002-p6-a/800/600",
+        "https://picsum.photos/seed/d-002-p6-b/800/600",
+        "https://picsum.photos/seed/d-002-p6-c/800/600"
+      ],
+      "tags": [
+        "tech",
+        "logo",
+        "startup"
+      ],
+      "tools": [
+        "Illustrator",
+        "After Effects"
+      ],
+      "likes": 189,
+      "views": 2400,
+      "createdAt": "2026-03-12T10:30:00.000Z"
+    },
+    {
+      "id": "p-007",
+      "designerId": "d-002",
+      "title": "Organic Food Packaging",
+      "description": "Packaging line for an organic food brand — 12 SKUs with shelf-impact focus.",
+      "category": "branding",
+      "images": [
+        "https://picsum.photos/seed/d-002-p7-a/800/600",
+        "https://picsum.photos/seed/d-002-p7-b/800/600",
+        "https://picsum.photos/seed/d-002-p7-c/800/600"
+      ],
+      "tags": [
+        "packaging",
+        "food",
+        "organic"
+      ],
+      "tools": [
+        "Illustrator",
+        "Dimension"
+      ],
+      "likes": 142,
+      "views": 1800,
+      "createdAt": "2026-05-11T10:30:00.000Z"
+    },
+    {
+      "id": "p-012",
+      "designerId": "d-004",
+      "title": "Fintech Explainer Video",
+      "description": "90-second animated explainer: script visualization, storyboards, full animation.",
+      "category": "motion",
+      "images": [
+        "https://picsum.photos/seed/d-004-p12-a/800/600",
+        "https://picsum.photos/seed/d-004-p12-b/800/600",
+        "https://picsum.photos/seed/d-004-p12-c/800/600"
+      ],
+      "tags": [
+        "explainer",
+        "fintech",
+        "2d-animation"
+      ],
+      "tools": [
+        "After Effects",
+        "Illustrator"
+      ],
+      "likes": 178,
+      "views": 2900,
+      "createdAt": "2026-04-21T10:50:00.000Z"
+    },
+    {
+      "id": "p-013",
+      "designerId": "d-004",
+      "title": "Logo Animations Pack",
+      "description": "Animated logo reveals for 8 brands — from minimal to playful.",
+      "category": "motion",
+      "images": [
+        "https://picsum.photos/seed/d-004-p13-a/800/600",
+        "https://picsum.photos/seed/d-004-p13-b/800/600",
+        "https://picsum.photos/seed/d-004-p13-c/800/600"
+      ],
+      "tags": [
+        "logo-animation",
+        "branding"
+      ],
+      "tools": [
+        "After Effects"
+      ],
+      "likes": 134,
+      "views": 1600,
+      "createdAt": "2026-03-02T10:40:00.000Z"
+    },
+    {
+      "id": "p-014",
+      "designerId": "d-004",
+      "title": "Instagram Ads Campaign",
+      "description": "15 animated ad creatives for a fashion retailer's seasonal campaign.",
+      "category": "motion",
+      "images": [
+        "https://picsum.photos/seed/d-004-p14-a/800/600",
+        "https://picsum.photos/seed/d-004-p14-b/800/600",
+        "https://picsum.photos/seed/d-004-p14-c/800/600"
+      ],
+      "tags": [
+        "ads",
+        "social-media",
+        "fashion"
+      ],
+      "tools": [
+        "After Effects",
+        "Photoshop"
+      ],
+      "likes": 88,
+      "views": 1100,
+      "createdAt": "2026-05-21T10:20:00.000Z"
+    },
+    {
+      "id": "p-015",
+      "designerId": "d-005",
+      "title": "Fitness Tracking App",
+      "description": "iOS fitness app: workout builder, progress rings, and social challenges.",
+      "category": "ui-ux",
+      "images": [
+        "https://picsum.photos/seed/d-005-p15-a/800/600",
+        "https://picsum.photos/seed/d-005-p15-b/800/600",
+        "https://picsum.photos/seed/d-005-p15-c/800/600"
+      ],
+      "tags": [
+        "fitness",
+        "ios",
+        "mobile"
+      ],
+      "tools": [
+        "Figma",
+        "Sketch"
+      ],
+      "likes": 290,
+      "views": 3800,
+      "createdAt": "2026-04-06T10:05:00.000Z"
+    },
+    {
+      "id": "p-016",
+      "designerId": "d-005",
+      "title": "Food Delivery App Redesign",
+      "description": "Reduced checkout steps from 6 to 3; new visual language and dark mode.",
+      "category": "ui-ux",
+      "images": [
+        "https://picsum.photos/seed/d-005-p16-a/800/600",
+        "https://picsum.photos/seed/d-005-p16-b/800/600",
+        "https://picsum.photos/seed/d-005-p16-c/800/600"
+      ],
+      "tags": [
+        "food-delivery",
+        "mobile",
+        "dark-mode"
+      ],
+      "tools": [
+        "Figma"
+      ],
+      "likes": 215,
+      "views": 2600,
+      "createdAt": "2026-02-20T10:50:00.000Z"
+    },
+    {
+      "id": "p-017",
+      "designerId": "d-005",
+      "title": "Meditation App Concept",
+      "description": "Calm-inspired concept with generative gradients and haptic-first interactions.",
+      "category": "ui-ux",
+      "images": [
+        "https://picsum.photos/seed/d-005-p17-a/800/600",
+        "https://picsum.photos/seed/d-005-p17-b/800/600",
+        "https://picsum.photos/seed/d-005-p17-c/800/600"
+      ],
+      "tags": [
+        "wellness",
+        "concept",
+        "mobile"
+      ],
+      "tools": [
+        "Figma",
+        "Midjourney"
+      ],
+      "likes": 167,
+      "views": 2000,
+      "createdAt": "2026-05-06T10:35:00.000Z"
+    },
+    {
+      "id": "p-018",
+      "designerId": "d-006",
+      "title": "Architecture Magazine Layout",
+      "description": "120-page quarterly magazine: grid system, typography, and photo direction.",
+      "category": "print",
+      "images": [
+        "https://picsum.photos/seed/d-006-p18-a/800/600",
+        "https://picsum.photos/seed/d-006-p18-b/800/600",
+        "https://picsum.photos/seed/d-006-p18-c/800/600"
+      ],
+      "tags": [
+        "magazine",
+        "editorial",
+        "typography"
+      ],
+      "tools": [
+        "InDesign",
+        "Photoshop"
+      ],
+      "likes": 119,
+      "views": 1500,
+      "createdAt": "2026-03-22T10:20:00.000Z"
+    },
+    {
+      "id": "p-019",
+      "designerId": "d-006",
+      "title": "Poetry Book Design",
+      "description": "Hardcover poetry collection with custom drop caps and letterpress cover.",
+      "category": "print",
+      "images": [
+        "https://picsum.photos/seed/d-006-p19-a/800/600",
+        "https://picsum.photos/seed/d-006-p19-b/800/600",
+        "https://picsum.photos/seed/d-006-p19-c/800/600"
+      ],
+      "tags": [
+        "book",
+        "typography",
+        "letterpress"
+      ],
+      "tools": [
+        "InDesign"
+      ],
+      "likes": 86,
+      "views": 950,
+      "createdAt": "2026-01-01T10:40:00.000Z"
+    },
+    {
+      "id": "p-020",
+      "designerId": "d-006",
+      "title": "Festival Poster Series",
+      "description": "Jazz festival posters — riso-inspired, three colorways.",
+      "category": "print",
+      "images": [
+        "https://picsum.photos/seed/d-006-p20-a/800/600",
+        "https://picsum.photos/seed/d-006-p20-b/800/600",
+        "https://picsum.photos/seed/d-006-p20-c/800/600"
+      ],
+      "tags": [
+        "posters",
+        "festival",
+        "riso"
+      ],
+      "tools": [
+        "Illustrator",
+        "InDesign"
+      ],
+      "likes": 145,
+      "views": 1750,
+      "createdAt": "2026-05-01T10:40:00.000Z"
+    },
+    {
+      "id": "p-021",
+      "designerId": "d-007",
+      "title": "Restaurant Social Media Kit",
+      "description": "30 post templates and story highlights for a seafood restaurant.",
+      "category": "other",
+      "images": [
+        "https://picsum.photos/seed/d-007-p21-a/800/600",
+        "https://picsum.photos/seed/d-007-p21-b/800/600",
+        "https://picsum.photos/seed/d-007-p21-c/800/600"
+      ],
+      "tags": [
+        "social-media",
+        "templates",
+        "restaurant"
+      ],
+      "tools": [
+        "Photoshop",
+        "Canva"
+      ],
+      "likes": 54,
+      "views": 700,
+      "createdAt": "2026-05-13T10:04:00.000Z"
+    },
+    {
+      "id": "p-022",
+      "designerId": "d-007",
+      "title": "Wedding Invitation Suite",
+      "description": "Hand-illustrated floral invitations with envelope liners and menu cards.",
+      "category": "illustration",
+      "images": [
+        "https://picsum.photos/seed/d-007-p22-a/800/600",
+        "https://picsum.photos/seed/d-007-p22-b/800/600",
+        "https://picsum.photos/seed/d-007-p22-c/800/600"
+      ],
+      "tags": [
+        "wedding",
+        "floral",
+        "stationery"
+      ],
+      "tools": [
+        "Procreate",
+        "Illustrator"
+      ],
+      "likes": 73,
+      "views": 880,
+      "createdAt": "2026-04-16T10:55:00.000Z"
+    },
+    {
+      "id": "p-023",
+      "designerId": "d-007",
+      "title": "Bookstore Window Posters",
+      "description": "Seasonal poster series for a local bookstore chain.",
+      "category": "print",
+      "images": [
+        "https://picsum.photos/seed/d-007-p23-a/800/600",
+        "https://picsum.photos/seed/d-007-p23-b/800/600",
+        "https://picsum.photos/seed/d-007-p23-c/800/600"
+      ],
+      "tags": [
+        "posters",
+        "retail"
+      ],
+      "tools": [
+        "Photoshop"
+      ],
+      "likes": 41,
+      "views": 520,
+      "createdAt": "2026-05-29T10:36:00.000Z"
+    },
+    {
+      "id": "p-024",
+      "designerId": "d-008",
+      "title": "SaaS Design System \"Atlas\"",
+      "description": "Multi-brand design system: 200+ components, theming, and documentation site.",
+      "category": "ui-ux",
+      "images": [
+        "https://picsum.photos/seed/d-008-p24-a/800/600",
+        "https://picsum.photos/seed/d-008-p24-b/800/600",
+        "https://picsum.photos/seed/d-008-p24-c/800/600"
+      ],
+      "tags": [
+        "design-system",
+        "saas",
+        "documentation"
+      ],
+      "tools": [
+        "Figma",
+        "Storybook"
+      ],
+      "likes": 332,
+      "views": 4500,
+      "createdAt": "2026-03-07T10:35:00.000Z"
+    },
+    {
+      "id": "p-025",
+      "designerId": "d-008",
+      "title": "Analytics Platform UI",
+      "description": "Data-dense analytics product with customizable dashboards and dark mode.",
+      "category": "ui-ux",
+      "images": [
+        "https://picsum.photos/seed/d-008-p25-a/800/600",
+        "https://picsum.photos/seed/d-008-p25-b/800/600",
+        "https://picsum.photos/seed/d-008-p25-c/800/600"
+      ],
+      "tags": [
+        "analytics",
+        "dashboard",
+        "saas"
+      ],
+      "tools": [
+        "Figma"
+      ],
+      "likes": 241,
+      "views": 3200,
+      "createdAt": "2026-01-31T10:10:00.000Z"
+    },
+    {
+      "id": "p-026",
+      "designerId": "d-008",
+      "title": "Marketing Site in Webflow",
+      "description": "Full marketing site with CMS, interactions, and localization.",
+      "category": "other",
+      "images": [
+        "https://picsum.photos/seed/d-008-p26-a/800/600",
+        "https://picsum.photos/seed/d-008-p26-b/800/600",
+        "https://picsum.photos/seed/d-008-p26-c/800/600"
+      ],
+      "tags": [
+        "webflow",
+        "marketing",
+        "web"
+      ],
+      "tools": [
+        "Webflow",
+        "Figma"
+      ],
+      "likes": 127,
+      "views": 1900,
+      "createdAt": "2026-05-19T10:46:00.000Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "s-001",
+      "designerId": "d-001",
+      "title": "UX Audit of Your App",
+      "description": "Heuristic evaluation of up to 10 screens with prioritized recommendations.",
+      "deliveryDays": 5,
+      "price": 300,
+      "currency": "AZN",
+      "includes": [
+        "Audit report (PDF)",
+        "Top-10 issues list",
+        "1-hour call"
+      ],
+      "tier": "basic"
+    },
+    {
+      "id": "s-002",
+      "designerId": "d-001",
+      "title": "Mobile App Design",
+      "description": "Full app design up to 15 screens with interactive prototype.",
+      "deliveryDays": 14,
+      "price": 1200,
+      "currency": "AZN",
+      "includes": [
+        "15 screens",
+        "Interactive prototype",
+        "Design system starter",
+        "2 revision rounds"
+      ],
+      "tier": "standard"
+    },
+    {
+      "id": "s-003",
+      "designerId": "d-001",
+      "title": "End-to-End Product Design",
+      "description": "Research, wireframes, UI, prototype, and developer handoff for a full product.",
+      "deliveryDays": 30,
+      "price": 3500,
+      "currency": "AZN",
+      "includes": [
+        "User research",
+        "Unlimited screens",
+        "Full design system",
+        "Dev handoff",
+        "4 revision rounds"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "s-004",
+      "designerId": "d-002",
+      "title": "Logo Design",
+      "description": "Three logo concepts, two revision rounds, final files in all formats.",
+      "deliveryDays": 7,
+      "price": 400,
+      "currency": "AZN",
+      "includes": [
+        "3 concepts",
+        "2 revisions",
+        "AI/EPS/PNG/SVG files"
+      ],
+      "tier": "basic"
+    },
+    {
+      "id": "s-005",
+      "designerId": "d-002",
+      "title": "Brand Identity Package",
+      "description": "Logo, color palette, typography, business cards, and mini brand guide.",
+      "deliveryDays": 14,
+      "price": 1100,
+      "currency": "AZN",
+      "includes": [
+        "Logo + variations",
+        "Brand guide (20 pages)",
+        "Stationery design",
+        "3 revisions"
+      ],
+      "tier": "standard"
+    },
+    {
+      "id": "s-006",
+      "designerId": "d-002",
+      "title": "Full Brand System",
+      "description": "Complete identity with packaging, signage, social templates, and brand book.",
+      "deliveryDays": 30,
+      "price": 2800,
+      "currency": "AZN",
+      "includes": [
+        "Everything in Standard",
+        "Packaging design",
+        "Social media kit",
+        "Brand book (50+ pages)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "s-009",
+      "designerId": "d-004",
+      "title": "Logo Animation",
+      "description": "Animated logo reveal up to 10 seconds, sound design included.",
+      "deliveryDays": 5,
+      "price": 200,
+      "currency": "AZN",
+      "includes": [
+        "10s animation",
+        "Sound design",
+        "MP4 + MOV + GIF"
+      ],
+      "tier": "basic"
+    },
+    {
+      "id": "s-010",
+      "designerId": "d-004",
+      "title": "Explainer Video (60s)",
+      "description": "Script-to-screen 60-second explainer with custom illustrations.",
+      "deliveryDays": 21,
+      "price": 1500,
+      "currency": "AZN",
+      "includes": [
+        "Storyboard",
+        "Custom illustration",
+        "Voiceover sync",
+        "Full HD render"
+      ],
+      "tier": "standard"
+    },
+    {
+      "id": "s-011",
+      "designerId": "d-004",
+      "title": "Video Campaign Package",
+      "description": "Explainer plus 10 social cutdowns in all aspect ratios.",
+      "deliveryDays": 30,
+      "price": 3200,
+      "currency": "AZN",
+      "includes": [
+        "90s explainer",
+        "10 social versions",
+        "All aspect ratios",
+        "Source project files"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "s-012",
+      "designerId": "d-005",
+      "title": "App Screen Redesign",
+      "description": "Redesign of up to 5 screens of your existing app.",
+      "deliveryDays": 7,
+      "price": 450,
+      "currency": "USD",
+      "includes": [
+        "5 screens",
+        "Before/after report",
+        "1 revision round"
+      ],
+      "tier": "basic"
+    },
+    {
+      "id": "s-013",
+      "designerId": "d-005",
+      "title": "Full Mobile App Design",
+      "description": "Up to 25 screens, prototype, and design tokens for developers.",
+      "deliveryDays": 21,
+      "price": 2200,
+      "currency": "USD",
+      "includes": [
+        "25 screens",
+        "Prototype",
+        "Design tokens",
+        "3 revisions"
+      ],
+      "tier": "standard"
+    },
+    {
+      "id": "s-014",
+      "designerId": "d-005",
+      "title": "Design Partner (Monthly)",
+      "description": "A month of dedicated design: unlimited requests, one at a time.",
+      "deliveryDays": 30,
+      "price": 4500,
+      "currency": "USD",
+      "includes": [
+        "Unlimited requests",
+        "48h average turnaround",
+        "Weekly sync calls",
+        "Pause anytime"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "s-015",
+      "designerId": "d-006",
+      "title": "Brochure / Booklet Design",
+      "description": "Up to 12 pages, print-ready PDF with bleed and crop marks.",
+      "deliveryDays": 7,
+      "price": 350,
+      "currency": "USD",
+      "includes": [
+        "12 pages",
+        "Print-ready PDF",
+        "2 revisions"
+      ],
+      "tier": "basic"
+    },
+    {
+      "id": "s-016",
+      "designerId": "d-006",
+      "title": "Magazine / Catalog Design",
+      "description": "Up to 60 pages with custom grid and typographic system.",
+      "deliveryDays": 21,
+      "price": 1400,
+      "currency": "USD",
+      "includes": [
+        "60 pages",
+        "Custom grid system",
+        "Print supervision",
+        "3 revisions"
+      ],
+      "tier": "standard"
+    },
+    {
+      "id": "s-017",
+      "designerId": "d-007",
+      "title": "Social Media Posts (10x)",
+      "description": "Ten branded posts for Instagram or Facebook with source files.",
+      "deliveryDays": 4,
+      "price": 80,
+      "currency": "AZN",
+      "includes": [
+        "10 posts",
+        "Source files",
+        "1 revision"
+      ],
+      "tier": "basic"
+    },
+    {
+      "id": "s-018",
+      "designerId": "d-007",
+      "title": "Monthly Social Media Kit",
+      "description": "30 posts, 10 stories, and highlight covers, planned with a content calendar.",
+      "deliveryDays": 10,
+      "price": 250,
+      "currency": "AZN",
+      "includes": [
+        "30 posts",
+        "10 stories",
+        "Highlight covers",
+        "Content calendar"
+      ],
+      "tier": "standard"
+    },
+    {
+      "id": "s-019",
+      "designerId": "d-008",
+      "title": "Design System Audit",
+      "description": "Review of your existing design system with a gap analysis and roadmap.",
+      "deliveryDays": 7,
+      "price": 900,
+      "currency": "USD",
+      "includes": [
+        "Audit report",
+        "Gap analysis",
+        "Roadmap",
+        "90-min workshop"
+      ],
+      "tier": "basic"
+    },
+    {
+      "id": "s-020",
+      "designerId": "d-008",
+      "title": "Design System Foundation",
+      "description": "Tokens, core components, and documentation for one brand.",
+      "deliveryDays": 21,
+      "price": 3800,
+      "currency": "USD",
+      "includes": [
+        "Design tokens",
+        "50+ components",
+        "Usage documentation",
+        "Figma library setup"
+      ],
+      "tier": "standard"
+    },
+    {
+      "id": "s-021",
+      "designerId": "d-008",
+      "title": "Enterprise Design System",
+      "description": "Multi-brand, multi-platform system with governance model and team training.",
+      "deliveryDays": 45,
+      "price": 9500,
+      "currency": "USD",
+      "includes": [
+        "Multi-brand theming",
+        "200+ components",
+        "Governance playbook",
+        "Team training (3 sessions)"
+      ],
+      "tier": "premium"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r-001",
+      "designerId": "d-001",
+      "clientName": "Orkhan Babayev",
+      "rating": 5,
+      "comment": "Aysel transformed our banking app. Conversion on onboarding doubled.",
+      "projectCategory": "ui-ux",
+      "createdAt": "2026-05-01T14:40:00.000Z"
+    },
+    {
+      "id": "r-002",
+      "designerId": "d-001",
+      "clientName": "Sarah Mitchell",
+      "rating": 5,
+      "comment": "Incredibly thorough UX research and beautiful execution.",
+      "projectCategory": "ui-ux",
+      "createdAt": "2026-03-12T14:30:00.000Z"
+    },
+    {
+      "id": "r-003",
+      "designerId": "d-001",
+      "clientName": "Farid Jafarov",
+      "rating": 4,
+      "comment": "Great work, slightly over the deadline but worth it.",
+      "projectCategory": "ui-ux",
+      "createdAt": "2026-01-11T14:30:00.000Z"
+    },
+    {
+      "id": "r-004",
+      "designerId": "d-001",
+      "clientName": "Kamala Nasibova",
+      "rating": 5,
+      "comment": "The design system she built saves our devs hours every week.",
+      "projectCategory": "ui-ux",
+      "createdAt": "2025-11-22T14:20:00.000Z"
+    },
+    {
+      "id": "r-005",
+      "designerId": "d-002",
+      "clientName": "Murad Safarov",
+      "rating": 5,
+      "comment": "Our coffee shop rebrand exceeded expectations. Customers noticed immediately.",
+      "projectCategory": "branding",
+      "createdAt": "2026-04-16T14:55:00.000Z"
+    },
+    {
+      "id": "r-006",
+      "designerId": "d-002",
+      "clientName": "Jennifer Adams",
+      "rating": 5,
+      "comment": "Tural nailed our startup identity on the second concept.",
+      "projectCategory": "branding",
+      "createdAt": "2026-03-17T14:25:00.000Z"
+    },
+    {
+      "id": "r-007",
+      "designerId": "d-002",
+      "clientName": "Elchin Mammadli",
+      "rating": 4,
+      "comment": "Professional process, detailed brand book. Recommended.",
+      "projectCategory": "branding",
+      "createdAt": "2026-02-10T14:00:00.000Z"
+    },
+    {
+      "id": "r-008",
+      "designerId": "d-002",
+      "clientName": "Aytan Suleymanova",
+      "rating": 5,
+      "comment": "Packaging design helped us get into two retail chains.",
+      "projectCategory": "branding",
+      "createdAt": "2026-05-21T14:20:00.000Z"
+    },
+    {
+      "id": "r-009",
+      "designerId": "d-002",
+      "clientName": "David Chen",
+      "rating": 4,
+      "comment": "Solid logo work, good communication throughout.",
+      "projectCategory": "branding",
+      "createdAt": "2025-10-03T14:10:00.000Z"
+    },
+    {
+      "id": "r-014",
+      "designerId": "d-004",
+      "clientName": "Samir Aghayev",
+      "rating": 5,
+      "comment": "The explainer video paid for itself within a month of launch.",
+      "projectCategory": "motion",
+      "createdAt": "2026-04-26T14:45:00.000Z"
+    },
+    {
+      "id": "r-015",
+      "designerId": "d-004",
+      "clientName": "Anna Kowalska",
+      "rating": 4,
+      "comment": "Great animation quality. Communication could be a bit faster.",
+      "projectCategory": "motion",
+      "createdAt": "2026-03-07T14:35:00.000Z"
+    },
+    {
+      "id": "r-016",
+      "designerId": "d-004",
+      "clientName": "Ilgar Talibov",
+      "rating": 4,
+      "comment": "Logo animation looks fantastic on our website and socials.",
+      "projectCategory": "motion",
+      "createdAt": "2026-05-26T14:15:00.000Z"
+    },
+    {
+      "id": "r-017",
+      "designerId": "d-005",
+      "clientName": "Rena Akhundova",
+      "rating": 5,
+      "comment": "Nigar redesigned our delivery app checkout — cart abandonment dropped 30%.",
+      "projectCategory": "ui-ux",
+      "createdAt": "2026-04-11T14:00:00.000Z"
+    },
+    {
+      "id": "r-018",
+      "designerId": "d-005",
+      "clientName": "James Wilson",
+      "rating": 5,
+      "comment": "Best mobile designer I've worked with. Period.",
+      "projectCategory": "ui-ux",
+      "createdAt": "2026-02-20T14:50:00.000Z"
+    },
+    {
+      "id": "r-019",
+      "designerId": "d-005",
+      "clientName": "Gunel Rahimova",
+      "rating": 5,
+      "comment": "Thoughtful, fast, and a great communicator.",
+      "projectCategory": "ui-ux",
+      "createdAt": "2025-12-22T14:50:00.000Z"
+    },
+    {
+      "id": "r-020",
+      "designerId": "d-005",
+      "clientName": "Peter Novak",
+      "rating": 4,
+      "comment": "Strong design skills, premium price but justified.",
+      "projectCategory": "ui-ux",
+      "createdAt": "2025-11-02T14:40:00.000Z"
+    },
+    {
+      "id": "r-021",
+      "designerId": "d-005",
+      "clientName": "Zaur Isgandarov",
+      "rating": 5,
+      "comment": "The fitness app design got us featured on the App Store.",
+      "projectCategory": "ui-ux",
+      "createdAt": "2026-05-16T14:25:00.000Z"
+    },
+    {
+      "id": "r-022",
+      "designerId": "d-006",
+      "clientName": "Claudia Rossi",
+      "rating": 5,
+      "comment": "Marco's editorial layouts are works of art. Our magazine has never looked better.",
+      "projectCategory": "print",
+      "createdAt": "2026-03-27T14:15:00.000Z"
+    },
+    {
+      "id": "r-023",
+      "designerId": "d-006",
+      "clientName": "Anar Guliyev",
+      "rating": 4,
+      "comment": "Beautiful poetry book design, print supervision was very helpful.",
+      "projectCategory": "print",
+      "createdAt": "2026-01-21T14:20:00.000Z"
+    },
+    {
+      "id": "r-024",
+      "designerId": "d-006",
+      "clientName": "Sophie Laurent",
+      "rating": 4,
+      "comment": "Festival posters were a hit. Would book again.",
+      "projectCategory": "print",
+      "createdAt": "2026-05-06T14:35:00.000Z"
+    },
+    {
+      "id": "r-025",
+      "designerId": "d-007",
+      "clientName": "Nihad Agayev",
+      "rating": 5,
+      "comment": "Leyla handles all our restaurant's social media design. Fast and reliable.",
+      "projectCategory": "other",
+      "createdAt": "2026-05-19T14:46:00.000Z"
+    },
+    {
+      "id": "r-026",
+      "designerId": "d-007",
+      "clientName": "Lala Huseynzade",
+      "rating": 5,
+      "comment": "The wedding invitations were stunning — guests kept asking who made them.",
+      "projectCategory": "illustration",
+      "createdAt": "2026-04-23T14:24:00.000Z"
+    },
+    {
+      "id": "r-027",
+      "designerId": "d-007",
+      "clientName": "Emin Nagiyev",
+      "rating": 4,
+      "comment": "Good value for money, quick revisions.",
+      "projectCategory": "other",
+      "createdAt": "2026-03-22T14:20:00.000Z"
+    },
+    {
+      "id": "r-028",
+      "designerId": "d-008",
+      "clientName": "Rachel Green",
+      "rating": 5,
+      "comment": "Kanan built our design system from scratch. Dev velocity visibly improved.",
+      "projectCategory": "ui-ux",
+      "createdAt": "2026-03-02T14:40:00.000Z"
+    },
+    {
+      "id": "r-029",
+      "designerId": "d-008",
+      "clientName": "Javid Mirzayev",
+      "rating": 5,
+      "comment": "Deep expertise in design systems. Worth every dollar.",
+      "projectCategory": "ui-ux",
+      "createdAt": "2026-01-01T14:40:00.000Z"
+    },
+    {
+      "id": "r-030",
+      "designerId": "d-008",
+      "clientName": "Michael Brown",
+      "rating": 4,
+      "comment": "Excellent systems thinking. Premium tier is genuinely premium.",
+      "projectCategory": "ui-ux",
+      "createdAt": "2025-11-12T14:30:00.000Z"
+    },
+    {
+      "id": "r-031",
+      "designerId": "d-008",
+      "clientName": "Aysu Bagirova",
+      "rating": 5,
+      "comment": "The audit alone fixed half our consistency problems.",
+      "projectCategory": "ui-ux",
+      "createdAt": "2026-04-21T14:50:00.000Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "o-001",
+      "serviceId": "s-002",
+      "designerId": "d-001",
+      "clientName": "Orkhan Babayev",
+      "clientEmail": "orkhan.b@example.com",
+      "requirements": "Fitness app, 12 screens, dark theme preferred. Figma file of current version available.",
+      "status": "completed",
+      "createdAt": "2026-04-21T10:50:00.000Z"
+    },
+    {
+      "id": "o-002",
+      "serviceId": "s-005",
+      "designerId": "d-002",
+      "clientName": "Aytan Suleymanova",
+      "clientEmail": "aytan.s@example.com",
+      "requirements": "Organic honey brand, need full identity before harvest season.",
+      "status": "in-progress",
+      "createdAt": "2026-05-29T10:36:00.000Z"
+    },
+    {
+      "id": "o-003",
+      "serviceId": "s-010",
+      "designerId": "d-004",
+      "clientName": "Samir Aghayev",
+      "clientEmail": "samir.a@example.com",
+      "requirements": "60s explainer for a parking app. Script draft attached.",
+      "status": "pending",
+      "createdAt": "2026-06-10T10:00:00.000Z"
+    },
+    {
+      "id": "o-004",
+      "serviceId": "s-013",
+      "designerId": "d-005",
+      "clientName": "Rena Akhundova",
+      "clientEmail": "rena.a@example.com",
+      "requirements": "Full redesign of grocery delivery app, 20+ screens.",
+      "status": "completed",
+      "createdAt": "2026-04-01T10:10:00.000Z"
+    },
+    {
+      "id": "o-005",
+      "serviceId": "s-018",
+      "designerId": "d-007",
+      "clientName": "Nihad Agayev",
+      "clientEmail": "nihad.a@example.com",
+      "requirements": "June social media kit for the seafood restaurant, summer menu focus.",
+      "status": "in-progress",
+      "createdAt": "2026-06-07T10:39:00.000Z"
+    },
+    {
+      "id": "o-006",
+      "serviceId": "s-021",
+      "designerId": "d-008",
+      "clientName": "Rachel Green",
+      "clientEmail": "rachel.g@example.com",
+      "requirements": "Design system foundation for our HR SaaS. React + Figma.",
+      "status": "cancelled",
+      "createdAt": "2026-03-12T10:30:00.000Z"
+    }
+  ]
+}
